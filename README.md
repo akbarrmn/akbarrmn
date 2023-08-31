@@ -25,7 +25,7 @@ Highly motivated and interested in learning everything related to developments i
 <a href="https://linkedin.com/in/linkedin.com/in/akbar-rahmana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akbar-rahmana/" height="30" width="40" /></a>
 </p>
 
-<b>My GitHub Stats</b>
+### MY GITHUB STATS
 
 <a href="https://github.com/akbarrmn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarrmn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
