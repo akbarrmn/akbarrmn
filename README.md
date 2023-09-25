@@ -7,7 +7,6 @@ I'm a Junior Web Developer
 Highly motivated and interested in learning everything related to developments in the field of technology
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [akbarrmn](http://akbarrmn.vercel.app)
 * ✉️  You can contact me at [akbar.rahmana@gmail.com](mailto:akbar.rahmana@gmail.com)
 * 🤝  I'm open to collaborating on anything else
 
